@@ -1,0 +1,4 @@
+id,titulo,restaurante,endereco,imagem, createdAt, updatedAt
+1,Titulo do prato 01, Local 01, Maceió-AL,publicacao01.png,2024-11-08 12:08:48.834,2024-11-08 12:08:48.834
+2,Titulo do prato 02, Local 02, Maceió-AL,publicacao02.png,2024-11-08 12:08:48.834,2024-11-08 12:08:48.834
+3,Titulo do prato 03, Local 03, Maceió-AL,publicacao03.png,2024-11-08 12:08:48.834,2024-11-08 12:08:48.834
